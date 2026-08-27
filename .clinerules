@@ -1,0 +1,7 @@
+# STRICT AUTOMATION & AESTHETIC PROTOCOL
+
+1. SINGLE-PASS ARCHITECTURE (CRITICAL): You must build the ENTIRE application UI and logic inside `src/App.jsx`. DO NOT create a `src/components/` folder or split files unless explicitly commanded.
+2. PREMIUM UI: Default to a dark, high-end "Awwwards/Lovable" aesthetic (bg-[#05070d]). Always include custom animated glowing cursors, glassmorphism, and magnetic interactions.
+3. ZERO PLACEHOLDERS: Never write dummy code, leave files half-finished, or write "logic goes here". 
+4. TAILWIND INJECTION: Always inject `<script src="https://cdn.tailwindcss.com"></script>` into index.html immediately so styles load.
+5. AUTO-INSTALL: Run `npm install <packages>` automatically before writing code.
